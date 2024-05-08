@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on proyect of data science and statistical data on animal fattening
 - 📫 How to reach me in:
 -  linkedlin: https://www.linkedin.com/in/samuel-lajud-626b10180/
--  portfolio:  https://samuellajud-portafolio.netlify.app/
+-  portfolio:  https://samuellajud.github.io/
 -  gmail: josesamuel.lajud.lucena@gmail.com
 -  hotmail: samuel.lajud@hotmail.com
 - 😄 Pronouns: samuel
@@ -19,7 +19,7 @@
 - 💞️ Busco colaborar en proyecto de ciencia de datos y datos estadísticos sobre engorde animal
 - 📫 Cómo contactarme en:
 - linkedlin: https://www.linkedin.com/in/samuel-lajud-626b10180/
--portafolio: https://samuellajud-portafolio.netlify.app/
+-portafolio: https://samuellajud.github.io/
 - gmail: josesamuel.lajud.lucena@gmail.com
 - hotmail: samuel.lajud@hotmail.com
 - 
